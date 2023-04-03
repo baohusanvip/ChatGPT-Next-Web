@@ -17,10 +17,10 @@ try {
 }
 
 export const metadata = {
-  title: "ChatGPT Next Web",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "ChatAI-永久免费",
+  description: "ChatAI-永久免费.",
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "ChatAI-永久免费",
     statusBarStyle: "black-translucent",
   },
   themeColor: "#fafafa",
